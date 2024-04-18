@@ -2,27 +2,25 @@
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
-  "websites" : [
- 
- 
-{
-                  "url" : "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'COMPLETE'"",
-      "duration" : 30,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'COMPLETE'",
+      "duration": 30,
       "tabReloadIntervalSeconds": 1020
     },
-	{
-                  "url" : "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'PARTIAL'"",
-      "duration" : 30,
+    {
+      "url": "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'PARTIAL'",
+      "duration": 30,
       "tabReloadIntervalSeconds": 1020
     },
-	{
-                  "url" : "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'INCREMENTAL'"",
-      "duration" : 30,
+    {
+      "url": "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'INCREMENTAL'",
+      "duration": 30,
       "tabReloadIntervalSeconds": 1020
     },
-{
-                  "url" : "https://app.powerbi.com/groups/6dba7e3b-3407-4f82-a601-ef1214cbfb9f/reports/a35b61ae-bb1b-4333-85b1-aca3cd865b35/ReportSectiondf3a02708a4aec7632a3?chromeless=1",
-      "duration" : 30,
+    {
+      "url": "https://app.powerbi.com/groups/6dba7e3b-3407-4f82-a601-ef1214cbfb9f/reports/a35b61ae-bb1b-4333-85b1-aca3cd865b35/ReportSectiondf3a02708a4aec7632a3?chromeless=1",
+      "duration": 30,
       "tabReloadIntervalSeconds": 1020
     }
   ]
