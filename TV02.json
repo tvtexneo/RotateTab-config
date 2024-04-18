@@ -1,0 +1,12 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/576818ab-d25c-4e73-922e-6588990c0d79/reports/11dfb558-506d-4a82-aa82-fe36bf25358c/ReportSectioncbebba5100c1ea001cc9?chromeless=1&$filter=VW_LOG_INTEGRATIONS/RECORD_TYPE eq 'PARTIAL'",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 1020
+    }
+  ]
+}
